@@ -2,7 +2,7 @@ import asyncio
 import json
 import time
 import random
-from typing import List, Set
+from typing import List, Set, Optional
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 

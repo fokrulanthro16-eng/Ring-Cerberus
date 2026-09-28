@@ -14,6 +14,7 @@
 
 ## 📑 Table of Contents
 
+- [🎬 Video Walkthrough & High-Resolution Showcase](#-video-walkthrough--high-resolution-showcase)
 - [1. Executive Summary & Physical-Cyber Threat Landscape](#1-executive-summary--physical-cyber-threat-landscape)
 - [2. End-to-End System Architecture](#2-end-to-end-system-architecture)
   - [ASCII Architecture Pipeline](#ascii-architecture-pipeline)
@@ -30,6 +31,40 @@
 - [7. Environment Variables Reference](#7-environment-variables-reference)
 - [8. Production Deployment Guide](#8-production-deployment-guide)
 - [9. License & Acknowledgments](#9-license--acknowledgments)
+
+---
+
+## 🎬 Video Walkthrough & High-Resolution Showcase
+
+> **HD Neural Voiceover Walkthrough (1080p • 60fps • 58.4s)**: Synthesized narration powered by `en-US-ChristopherNeural` walking through edge-first motion gating, multimodal Bedrock interrogations, emergency perimeter lockdown actuation, and RFC 6238 TOTP airlocks.
+
+🎥 **[Direct Link to HD Video Walkthrough (`public/demo_walkthrough.mp4`)](public/demo_walkthrough.mp4)**
+
+<p align="center">
+  <video src="public/demo_walkthrough.mp4" width="100%" controls poster="public/screenshots/02_tactical_hud.png">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+### 📸 High-Definition Visual Showcase
+
+| Commercial SaaS Portal (`/`) | Mission Control Tactical HUD (`/dashboard`) |
+| :---: | :---: |
+| [![Landing Page](public/screenshots/01_landing_page.png)](public/screenshots/01_landing_page.png) | [![Tactical HUD](public/screenshots/02_tactical_hud.png)](public/screenshots/02_tactical_hud.png) |
+| *Enterprise SaaS landing page with Ring device onboarding* | *Sub-second HUD with MediaPipe Edge gating & Cloud Token Savings Meter* |
+
+| Scenario A: Package Poacher Detected | Scenario B: Armed Forced Entry & Lockdown |
+| :---: | :---: |
+| [![Package Poacher](public/screenshots/03_poacher_alert.png)](public/screenshots/03_poacher_alert.png) | [![Armed Forced Entry](public/screenshots/04_forced_entry.png)](public/screenshots/04_forced_entry.png) |
+| *Deception Index 0.85 with autonomous verbal challenge* | *98% threat spike, electromagnetic deadbolts & acoustic shield* |
+
+<p align="center">
+  <b>Scenario C: Zero-Trust Cryptographic Courier Airlock (OTP 844386 Verified)</b><br>
+  <a href="public/screenshots/05_airlock_unlocked.png">
+    <img src="public/screenshots/05_airlock_unlocked.png" alt="Airlock Unlocked" width="95%" />
+  </a><br>
+  <em>Offline-resilient RFC 6238 TOTP verification granting a 15-second secure parcel compartment deposit window without opening perimeter doors</em>
+</p>
 
 ---
 
