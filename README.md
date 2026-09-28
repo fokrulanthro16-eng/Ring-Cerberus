@@ -4,17 +4,25 @@
 [![MediaPipe Edge](https://img.shields.io/badge/MediaPipe-Edge%20Vector%20Gating-00E5FF?logo=google&logoColor=white)](https://developers.google.com/mediapipe)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js 14](https://img.shields.io/badge/Next.js%2014-App%20Router-black?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-FF0000?logo=youtube&logoColor=white)](https://youtu.be/FXuVlv15SdM)
 [![Vercel Live](https://img.shields.io/badge/Vercel-Live%20Production-00E5FF?logo=vercel&logoColor=white)](https://ring-cerberus.vercel.app)
 
 > **Hackathon Target**: Amazon Developer Hackathon 2026 — **Ring Track (Build, Ship, Shape)** + **AWS Builder & Open Source Mini Challenges**  
 > **Author**: [`fokrulanthro16-eng`](https://github.com/fokrulanthro16-eng)  
 > **Core Architecture**: Edge-First Vision Gating • Multi-Agent Bedrock Swarm • Acoustic Sentinel DSP • Offline RFC 6238 TOTP Airlock
 
+| Key Resource | Verified Production Link |
+|---|---|
+| 🎥 **Video Demo** | [https://youtu.be/FXuVlv15SdM](https://youtu.be/FXuVlv15SdM) |
+| 🌐 **Live Production Application** | [https://ring-cerberus.vercel.app](https://ring-cerberus.vercel.app) |
+| 🛡️ **Tactical HUD Console** | [https://ring-cerberus.vercel.app/dashboard](https://ring-cerberus.vercel.app/dashboard) |
+| 📦 **Target Repository** | [https://github.com/fokrulanthro16-eng/Ring-Cerberus](https://github.com/fokrulanthro16-eng/Ring-Cerberus) |
+
 ---
 
 ## 📑 Table of Contents
 
-- [🎬 Video Walkthrough & High-Resolution Showcase](#-video-walkthrough--high-resolution-showcase)
+- [🎬 Video Walkthrough & Narration Script](#-video-walkthrough--narration-script)
 - [1. Executive Summary & Physical-Cyber Threat Landscape](#1-executive-summary--physical-cyber-threat-landscape)
 - [2. End-to-End System Architecture](#2-end-to-end-system-architecture)
   - [ASCII Architecture Pipeline](#ascii-architecture-pipeline)
@@ -34,17 +42,30 @@
 
 ---
 
-## 🎬 Video Walkthrough & High-Resolution Showcase
+## 🎬 Video Walkthrough & Narration Script
 
 > **HD Neural Voiceover Walkthrough (1080p • 60fps • 58.4s)**: Synthesized narration powered by `en-US-ChristopherNeural` walking through edge-first motion gating, multimodal Bedrock interrogations, emergency perimeter lockdown actuation, and RFC 6238 TOTP airlocks.
 
-🎥 **[Direct Link to HD Video Walkthrough (`public/demo_walkthrough.mp4`)](public/demo_walkthrough.mp4)**
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20HD%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FXuVlv15SdM)  
+▶️ **YouTube Video Link**: [https://youtu.be/FXuVlv15SdM](https://youtu.be/FXuVlv15SdM)  
+🎥 **Direct Repository MP4**: [`public/demo_walkthrough.mp4`](public/demo_walkthrough.mp4)
 
 <p align="center">
-  <video src="public/demo_walkthrough.mp4" width="100%" controls poster="public/screenshots/02_tactical_hud.png">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://youtu.be/FXuVlv15SdM">
+    <img src="https://img.youtube.com/vi/FXuVlv15SdM/maxresdefault.jpg" alt="Ring Cerberus Video Demo" width="100%" />
+  </a>
 </p>
+
+### 🎙️ Neural Voiceover Narration Script (`en-US-ChristopherNeural`)
+
+| Timestamp | Walkthrough Phase | Narration Transcript |
+|---|---|---|
+| `00:00 - 00:08` | Platform Intro & Landing Page | *"Welcome to Ring Cerberus, the autonomous defensive swarm and zero-trust perimeter lockdown platform."* |
+| `00:08 - 00:18` | Tactical HUD & Edge Gating | *"Entering the Tactical HUD. Cerberus pairs edge-first MediaPipe gating with AWS Bedrock Claude 3.5 vision, cutting token costs by eighty-four percent."* |
+| `00:18 - 00:28` | Threat Scenario A: Poacher | *"Scenario One: Package Poacher Detected. As loitering is flagged, deception surges to point eight five, deploying autonomous verbal warnings."* |
+| `00:28 - 00:39` | Threat Scenario B: Forced Entry | *"Scenario Two: Armed Forced Entry. On critical breach, Cerberus seals magnetic deadbolts, engages the acoustic shield, and dispatches armed response."* |
+| `00:39 - 00:49` | Threat Scenario C: Courier Airlock | *"Scenario Three: Courier Airlock Verification. Couriers verify their offline RFC 6238 TOTP code, securely opening the delivery compartment."* |
+| `00:49 - 00:58` | Ring Gateway & Summary | *"With official Ring Cloud integration, Cerberus delivers complete physical-cyber security."* |
 
 ### 📸 High-Definition Visual Showcase
 
