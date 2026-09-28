@@ -4,7 +4,7 @@
 [![MediaPipe Edge](https://img.shields.io/badge/MediaPipe-Edge%20Vector%20Gating-00E5FF?logo=google&logoColor=white)](https://developers.google.com/mediapipe)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js 14](https://img.shields.io/badge/Next.js%2014-App%20Router-black?logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Vercel Live](https://img.shields.io/badge/Vercel-Live%20Production-00E5FF?logo=vercel&logoColor=white)](https://frontend-alpha-pied-13.vercel.app)
+[![Vercel Live](https://img.shields.io/badge/Vercel-Live%20Production-00E5FF?logo=vercel&logoColor=white)](https://ring-cerberus.vercel.app)
 
 > **Hackathon Target**: Amazon Developer Hackathon 2026 — **Ring Track (Build, Ship, Shape)** + **AWS Builder & Open Source Mini Challenges**  
 > **Author**: [`fokrulanthro16-eng`](https://github.com/fokrulanthro16-eng)  
